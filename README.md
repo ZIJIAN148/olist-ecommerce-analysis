@@ -1,6 +1,6 @@
 # 🛒 Olist E-Commerce Analytics: Supply Chain & Revenue Optimization
 
-[![Tableau](https://img.shields.io/badge/Tableau-Interactive_Dashboard-blue?style=for-the-badge&logo=tableau)]
+[![Tableau](https://img.shields.io/badge/Tableau-Interactive_Dashboard-blue?style=for-the-badge&logo=tableau)]([https://public.tableau.com/views/Book1_17721260001540/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)])
 
 ## 📌 Executive Summary
 This project analyzes 100,000+ real-world anonymized orders from Olist, a Brazilian e-commerce platform. The objective was to bridge raw relational data with operational management principles, identifying key revenue drivers, supply chain bottlenecks, and root causes for customer dissatisfaction. 
